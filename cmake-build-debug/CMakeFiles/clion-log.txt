@@ -1,0 +1,4 @@
+"G:\Clion\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=G:/Clion/CLion 2021.3.4/bin/ninja/win/ninja.exe" -DCMAKE_C_COMPILER=D:/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/mingw64/bin/g++.exe -G Ninja -S D:\ClionProjects\speechCompetitionManageSystem -B D:\ClionProjects\speechCompetitionManageSystem\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ClionProjects/speechCompetitionManageSystem/cmake-build-debug
